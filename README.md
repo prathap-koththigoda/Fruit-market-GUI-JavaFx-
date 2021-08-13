@@ -4,4 +4,6 @@ NOTE : You must have JavaFx setup correctly to work with this. Here you can find
 
 I would recommend to open this with IntelliJ as I build it with the same SDK too. 
 
-Fruit market website design using JavaFx and Scene Builder 
+Here you will a online website of a friut market. You can buy fruit online here. 
+
+Fruit market website design was made using JavaFx and Scene Builder 
